@@ -1,0 +1,11 @@
+input
+store v1
+input
+store v2
+load v1
+add v2
+output
+halt
+
+v1, dec 0
+v2, dec 0
